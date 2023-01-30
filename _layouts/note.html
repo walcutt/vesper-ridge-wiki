@@ -17,7 +17,7 @@ layout: default
     </content>
 
     <side style="font-size: 0.9em">
-      <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
+      <h3 style="margin-bottom: 1em">Pages mentioning this page</h3>
       {% if page.backlinks.size > 0 %}
       <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
       {% for backlink in page.backlinks %}
@@ -31,7 +31,7 @@ layout: default
 
       <div style="font-size: 0.9em">
         <p>
-          There are no notes linking to this note.
+          There are no pages linking to this page.
         </p>
       </div>
       {% endif %}
