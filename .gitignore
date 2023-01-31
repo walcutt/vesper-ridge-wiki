@@ -16,3 +16,7 @@ _includes/notes_graph.json
 
 # Mac Directory Files
 **/.DS_Store
+
+# Caddy misc. files
+caddy/caddy_config/
+caddy/caddy_data/
