@@ -1,0 +1,11 @@
+---
+title: The Labyrinth
+---
+
+A fathomless netherworld of caverns and tunnels that originates deep beneath [[the Hallowed Lands]] and stretches up to the streets of [[Vesper Ridge]]. The Labyrinth’s age is unknown, as are the forces that shaped it, but it was first discovered about 220 years before the events of our story after a series of destructive earthquakes opened chasms across the [[Barrens]]. Since then, smaller tremors occasionally shake the city and open new entrances to the Labyrinth, though never as dramatically as that first incident two centuries ago. Sometimes these new cave branches interfere with Vesper Ridge’s underground rail lines, which necessitates costly repair projects.
+
+The most infamous trait of the Labyrinth is its occupancy: the tunnels are not empty. Seemingly springing forth wholecloth from the darkness, an eerie menagerie of creatures like nothing else in the known world inhabit the Labyrinth. The first hapless souls to encounter them beneath the earth could think of no way to describe them but as “[[cave horrors]],” and that is how they are known to this day. Fortunately for the citizens of Vesper Ridge, the cave horrors never set foot on the surface.
+
+Less frightening than the cave horrors but equally mysterious are the scattered remains of what appear to be ancient ritual sites, religious shrines, and other unidentified structures dotting some deep Labyrinth tunnels. As there was no mention of the Labyrinth in recorded Hallowed Lands history prior to the earthquakes that revealed the caves to the surface, it is unknown how such structures came into existence. Some scholars speculate that the cave horrors must have built them, and indeed some of the horrors do bear vaguely humanoid anatomy, but the current scientific understanding is that cave horrors are sub-sentient creatures, more akin to territorial animals than to any sort of secret underground civilization. Further study on the matter is made difficult by the sheer peril of venturing too deep into the cave horrors’ domain.
+
+[[XXXXXXXXXXXX|No one knows how far down the tunnels go.]]
