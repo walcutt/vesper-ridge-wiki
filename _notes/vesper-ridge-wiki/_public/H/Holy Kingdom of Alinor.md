@@ -1,0 +1,7 @@
+---
+title: Holy Kingdom of Alinor
+---
+
+A theocratic monarchy in the lands west of Vesper Ridge. In the Holy Kingdom of Alinor (often shortened to just Alinor or abbreviated to HKA), the King is also the archbishop of the Church of the Guiding Way. The devout of Alinor tend to believe that their kingdom is the holiest place in all the Hallowed Lands, and their worship of the Keeper the most legitimate. Most historians believe that the Guiding Way faith did indeed originate within Alinor, so there may be some truth to these claims. Even outside Alinor, many followers of the Keeper venerate the King as an important religious figure.
+
+Alinor claims dominion over a vast territory of highlands, forests, and mountains. Some of its cities are among the oldest on the continent, and it remains the continent’s strongest military power in modern times. However, Vesper Ridge’s recent sequence of rapid-fire technological innovations threaten to leave Alinor in the distant past, a prospect that has the Alinor nobility uneasy and insecure in their hegemony over the Hallowed Lands. So far, the sheer difference in population between the two states is enough to ensure Alinor’s continued military supremacy, but this may not remain the case forever.

@@ -1,0 +1,5 @@
+---
+title: Tallow
+---
+
+Although the fat of many animals can technically be considered tallow, within this setting the term is used almost exclusively to refer to fats harvested from the enigmatic “cave horrors” that inhabit the Labyrinth. Long considered a curse upon the city, the cave horrors became an unexpected source of economic prosperity after Iron Caseval discovered the myriad industrial uses for their unearthly tissue. Over the past ten years, tallow has become the new industry standard for candles and lamp fuel, burning bright and hot and providing many hours of light even in small quantities. Additionally, it far surpasses other organic oils as a steam engine lubricant, and after undergoing various chemical processes can serve as anything from thermal insulation to antivenom.
