@@ -1,0 +1,5 @@
+---
+title: Vesper Ridge Customs and Notary Bureau River Gates Branch Municipal Office
+---
+
+Five stories of sturdy stonework and showy gold embellishments immediately set this structure apart from its surroundings in the western end of the [[Sunset Ward]]. Or, they did, until extensive fire damage reduced the splendorous facade to a soot-smothered ruin. Twice as tall as the second-tallest structure in the ward, the River Gates Branch Office acted as [[Vesper Ridge Parliamentary Council|Parliament]]'s stronghold in this relatively lawless area of the city. Daunting in both name and purpose, its functions were many: each floor housed multiple large courtrooms to process immigration, visitation, civil and criminal cases, and multiple offices to issue and distribute [[Permit of Stay|Permits of Stay]] and [[Permit of Leave|Leave]]. Its top floor included a set of small but lavishly furnished suites to house the higher-ranking officials in charge of the building's operation, and its rooftop served as a watchpost for the [[constabulary]], including a docking station for small [[airships]]. Beneath the building is the [[Sunset Ward Penitentiary Complex]].
