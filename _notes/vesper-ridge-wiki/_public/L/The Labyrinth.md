@@ -8,4 +8,4 @@ The most infamous trait of the Labyrinth is its occupancy: the tunnels are not e
 
 Less frightening than the cave horrors but equally mysterious are the scattered remains of what appear to be ancient ritual sites, religious shrines, and other unidentified structures dotting some deep Labyrinth tunnels. As there was no mention of the Labyrinth in recorded Hallowed Lands history prior to the earthquakes that revealed the caves to the surface, it is unknown how such structures came into existence. Some scholars speculate that the cave horrors must have built them, and indeed some of the horrors do bear vaguely humanoid anatomy, but the current scientific understanding is that cave horrors are sub-sentient creatures, more akin to territorial animals than to any sort of secret underground civilization. Further study on the matter is made difficult by the sheer peril of venturing too deep into the cave horrors’ domain.
 
-[[XXXXXXXXXXXX|No one knows how far down the tunnels go.]]
+No one knows how far down the tunnels go, but according to [[Chambermaid Calliope|Calliope]] they have been "active" lately.

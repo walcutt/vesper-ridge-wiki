@@ -6,4 +6,4 @@ The head of [[House Hypatia]], the sixth of the [[High Noble Houses]]. Calix Hyp
 
 Calix’s life before his adoption into House Hypatia is not public knowledge, and neither is the identity of his blood family. Some members of the [[aristocracy]] are keen on learning more about his past, seeking ammunition to discredit him and cast him out of [[Ainsley Vespridge|Duke Vespridge]]’s good graces, but their efforts are so far unsuccessful.
 
-It appears Lord Calix may have some connection to Ophile.
+At some point before the start of our story, and for reasons unknown, Lord Hypatia wrote a letter summoning Ophile Evenstar to Vesper Ridge. Aside from their shared elven ancestry, any connection between the two is unknown.

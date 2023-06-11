@@ -6,4 +6,6 @@ Sixth in status among the [[High Noble Houses]], and a notable oddity in that it
 
 In [[Vesperite]] society, which shuns and distrusts elves, this choice of heir was highly controversial, and there is still much gossip and speculation among the aristocracy as to the late Lord Hypatia’s motives for such a choice. One popular theory is that Calix was chosen because an elf’s centuries-long lifespan will afford him ample time to build a large family and ensure House Hypatia’s continued prosperity.
 
+It seems that our very own Ophile Evenstar may have a connection to this family...
+
 House Hypatia’s symbol is a flying hawk with wings aflame.
