@@ -2,4 +2,4 @@
 title: The Old Man Upstairs
 ---
 
-[[Sister Linia]] mentioned someone by this name when the party asked her about holy rites to safeguard a grave against necromancy. According to Linia, the old man upstairs knows more than her about such matters, and may wish to speak with the party.
+A hovering, spectral head upon a neck that stretches several feet in length, like an unnervingly fleshy snake. He wears a tattered hood that is just as translucent as the rest of him. The Old Man (or “Mister Upstairs”) is the ghost of a priest who built a humble church to [[Our Lady of the Black Rose]] two hundred years ago on what were, at the time, the outskirts of the small town of [[Vesper Ridge]]. He was murdered in cold blood by fanatical followers of [[the Keeper]], and his restless soul has haunted [[Cairwick Orphanage|the site of his church]] ever since. However, before his death he had the foresight to hide several sacred texts of the Black Rose in an isolated chamber within [[the Labyrinth]], and he’s held out hope that someday they would be recovered by fellow adherents of the faith.
