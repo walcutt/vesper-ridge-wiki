@@ -1,5 +1,5 @@
 ---
-title: "H"
+title: The Mysterious H
 ---
 
 Apparently the moniker of an upper manager within the [[Black Light Mining Company]],
