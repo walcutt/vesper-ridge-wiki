@@ -6,4 +6,4 @@ The oldest of the orphans living at [[Cairwick Chapel|Cairwick]], at 13 years of
 
 Emi sometimes squabbles with [[Rook]], but the two have a strong bond due to their shared willingness to do whatever it takes to protect their found family.
 
-She carries a pistol concealed in her jacket.
+Equipped with a pistol and an adventurous spirit, she’s keen on solving the mystery of the [[Bloody Butterfly|Bloody Butterfly's]] identity. So keen, in fact, that she tailed the killer after [[Poor Jimmy Ashcroft|Poor Jimmy’s]] murder, and led the party to [[Cortis|the site]] of another [[Supplicant|bloody ritual]]... and perhaps some clues!
