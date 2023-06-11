@@ -8,4 +8,6 @@ In [[Vesperite]] society, which shuns and distrusts elves, this choice of heir w
 
 It seems that our very own Ophile Evenstar may have a connection to this family...
 
+The building itself, known as Hypatia Manor, is a palatial Rococo-style estate deep within the opulent [[Velvet Ward]], and well-staffed by a legion of servants all outfitted in accordance with Lord Calix’s rather eccentric fashion tastes.
+
 House Hypatia’s symbol is a flying hawk with wings aflame.
