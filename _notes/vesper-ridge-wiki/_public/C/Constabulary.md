@@ -7,3 +7,5 @@ An organization that serves as both the police and military of [[Vesper Ridge]].
 Most [[Vesperite|Vesperites]] believe the [[Black Light Mining Company]] must pay the Constabulary to turn a blind eye to their myriad illegal activities, though conflicts between the two organizations do still occur. [[Axelia Vespridge|Duchess Axelia Vespridge]] is the Constabulary’s highest commanding officer.
 
 It appears that constable officers are currently carrying out an investigation in the west end of the city, in the wake of the [[Vesper Ridge Customs and Notary Bureau River Gates Branch Municipal Office|customs office’s]] destruction.
+
+Evidently, the Constabulary cares little for the safety of average Vesperites, having callously ignored [[Oliver]]’s heartfelt plea to save his [[Arthur|older brother]].

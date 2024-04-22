@@ -8,4 +8,4 @@ Scarlet can often be found standing quietly at the edge of a room, or just outsi
 
 Despite her unapproachable demeanor, it seems she isn’t completely immune to having fun. After considerable coaxing, Juniper and [[Vicky Lu]] did manage to convince her to play a single board game with them. Perhaps she even enjoyed it.
 
-Lately, she seems to be watching the party more than usual...
+Scarlet is a spellcaster, though she’s kept this fact hidden from everyone until quite recently. Due to her magic, she fears she’ll become a target of the [[Bloody Butterfly]], and seemingly plans to take matters dangerously into her own hands if the party does not ensure her safety.
