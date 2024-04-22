@@ -1,0 +1,10 @@
+version: '3'
+services:
+  jekyll:
+    image: jekyll/jekyll:latest
+    command: bash -c "gem install bundler -v 2.2.3 && bundle _2.2.3_ install && bundle exec jekyll serve --host 0.0.0.0 --no-watch"
+    restart: unless-stopped
+    volumes:
+      - .:/srv/jekyll:cached
+    ports:
+      - 4000:4000
