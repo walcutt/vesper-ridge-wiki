@@ -6,4 +6,4 @@ The second-largest [[Tallow Guilds|tallow guild]] in [[Vesper Ridge]], and the o
 
 [[Rook]] seems to hold a particularly deep-seated hatred for them.
 
-Some of Black Light’s employees appear to be rather monstrous...
+Some of Black Light’s employees appear to be rather monstrous... and it has become increasingly clear that the company has formed some sort of partnership with the feared [[Bloody Butterfly]]. How such a partnership came to be is unknown, and what will come of it remains to be seen.

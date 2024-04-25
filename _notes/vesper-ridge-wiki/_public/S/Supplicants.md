@@ -2,4 +2,4 @@
 title: Supplicants
 ---
 
-The name of a malformed sort of creature discovered by the party in the basement morgue below [[Cortis|Cortis’s]] funeral home. Though the supplicants’ exact nature is unknown, their jagged teeth and nails, burning hot breath, and mess of scar tissue in place of eyes or noses clearly mark them as something unnatural. According to Cortis’s testimony, they were created by the [[Bloody Butterfly]].
+Malformed creatures discovered by our party in the basement morgue below [[Cortis]]’s funeral home. Formerly innocent people of [[The Hallowed Lands]], these abominations have been twisted by the [[Bloody Butterfly]] through magic unknown, born anew in fire and pain. Their jagged teeth and nails, burning hot breath, and eyeless scarred faces are suited for little other than carrying out their master’s grisly agenda.

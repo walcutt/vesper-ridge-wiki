@@ -9,3 +9,5 @@ Though it may appear innocuous at first glance, rhodofolia has claimed far more 
 Survivors of rhodofolia vapor poisoning describe the experience as vividly hallucinatory, inducing feelings of euphoria “like falling under a spell,” and claim that the algae itself smells irresistibly sweet once you’ve caught a whiff of its vapors.
 
 Mysteriously, mercifully, all of the rhodofolia in the Sea of Wine vanishes as the sun goes down, leaving the waters safe for fishermen to trawl during the nighttime hours. And then, when the sun rises again, the algae rapidly materializes with the morning light. Whatever happens to the algae at night is currently unknown to science.
+
+Additional information: It was observed by Aelie Moondew and M-41D that the algae does not secrete its corrosive enzymes mindlessly, but rather as a deliberate process in response to the presence of suitable prey. When a captured [[Supplicants|supplicant]] fell into the water, its fleshy organic body was dissolved in a matter of minutes, but M-41D’s inorganic fingers conjured no like response when submerged.
