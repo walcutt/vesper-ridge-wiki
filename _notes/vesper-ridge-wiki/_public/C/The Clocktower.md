@@ -6,4 +6,4 @@ The most famous and most enigmatic structure in the city of [[Vesper Ridge]]. Fa
 
 Very recently, the Clocktower stirred to life for the first time in living memory, the hour hand ticking from 12 o’clock noon directly to 1 PM, and then several days later to 2 PM. Both times, this inexplicable motion was accompanied by the cacophonous clanging of bells, presumably originating from a belfry hidden within the tower itself. Some [[Vesperite|Vesperites]] report having experienced headaches and strange visions as they watched the clock tick.
 
-According to the strange automaton M-41D, the Clocktower is somehow connected to [[The Gloaming Lantern]].
+Many of the city’s strange phenomena appear to be tied to the Clocktower. [[The Gloaming Lantern]] seeks it out.
